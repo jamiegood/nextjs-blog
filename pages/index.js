@@ -25,7 +25,8 @@ export default function Home({ allPostsData }) {
         <p>Jamie Good</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.) THIS IS
+          A NEW FEATURE
           <Alert error error />
         </p>
       </section>
